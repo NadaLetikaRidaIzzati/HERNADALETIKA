@@ -1,0 +1,5 @@
+com\nada\anggota\service\repository\AnggotaRepository.class
+com\nada\anggota\service\entity\Anggota.class
+com\nada\anggota\service\AnggotaServiceApplication.class
+com\nada\anggota\service\controller\AnggotaController.class
+com\nada\anggota\service\service\AnggotaService.class
