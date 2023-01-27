@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Nada.Latihan2.service.Latihan2ServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.294 s - in com.Nada.Latihan2.service.Latihan2ServiceApplicationTests
