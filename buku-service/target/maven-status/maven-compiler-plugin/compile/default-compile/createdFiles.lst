@@ -1,0 +1,5 @@
+com\nada\buku\service\service\BukuService.class
+com\nada\buku\service\controller\BukuController.class
+com\nada\buku\service\entity\Buku.class
+com\nada\buku\service\repository\BukuRepository.class
+com\nada\buku\service\BukuServiceApplication.class
